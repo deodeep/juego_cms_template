@@ -1,1 +1,1 @@
-# juego_cms_template
+# template
