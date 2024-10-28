@@ -31,7 +31,6 @@ const Dashboard = () => {
   return (
     <ApexChartWrapper>
       {`You have logged in as ${role}`}
-      {`You have logged in as ${role}`}
       {/* <Grid container spacing={6}>
         <Grid item xs={12} md={4}>
           <Trophy />
